@@ -1,4 +1,4 @@
--- Drop the entire database and recreate it
+
 DROP DATABASE IF EXISTS bank_management;
 CREATE DATABASE bank_management;
 USE bank_management;
